@@ -1,6 +1,6 @@
-import React from 'react';
-import PersonList from './components/Get_api.js';
-import PeopleList from './components/Post_api.js'
+import React from "react";
+import PersonList from "./components/GetApi";
+import PeopleList from "./components/PostApi";
 
 function App() {
   return (
@@ -10,6 +10,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
